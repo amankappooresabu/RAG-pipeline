@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # Documents
-doc/
+docs/
 
 # Environment variables
 .env
